@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color_hexcode&height=300&section=header&text=Hello%20Everyone&fontSize=90)
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon LinkedIn>&logoColor=<Logo Color>)
 
 
 - 🔭 I’m currently working on other Project's
