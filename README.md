@@ -6,9 +6,7 @@
   Let's Connect and have a Chat!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
 </h1>
 
-<p align="center>
-          <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
-<p/>
+
             
 <p align="center">
 <img src="https://media.giphy.com/media/LSvPSsWLZnk6Aw29qw/giphy.gif" >
@@ -29,6 +27,11 @@
 </a>
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" >
+<p/>
+
+  
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
