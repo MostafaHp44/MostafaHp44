@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color_hexcode&height=300&section=header&text=Hello%20Everyone&fontSize=90)
-<img src="https://media.giphy.com/media/LSvPSsWLZnk6Aw29qw/giphy.gif">
+<img src="https://media.giphy.com/media/LSvPSsWLZnk6Aw29qw/giphy.gif" width="60" height="60">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
